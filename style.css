@@ -7,7 +7,7 @@ body{
     width:1000px;
     height:540px;
     background-color: #eefe80;
-    border:10px groove rgb(241, 120, 6);
+    border:10px groove rgb(241, 120, 7);
     margin:10px;    
 }
 
@@ -123,14 +123,14 @@ body{
 .row5-2{
     width:33.33%;
     height:100%;
-    background-color:rgb(108, 170, 182);
+    background-color:rgb(108, 171, 182);
     float:left;
 }
 
 .row5-3{
     width:33.33%;
     height:100%;
-    background-color:rgb(222, 124, 88);
+    background-color:rgb(223, 124, 88);
     float:left;
 }
 
